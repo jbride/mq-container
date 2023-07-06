@@ -37,7 +37,7 @@ ls -la ${DIR_TMP}
 # Generate MQ package in INSTALLATION_DIR
 export genmqpkg_inc32=0
 export genmqpkg_incadm=1
-export genmqpkg_incamqp=0
+export genmqpkg_incamqp=1
 export genmqpkg_incams=1
 export genmqpkg_inccbl=0
 export genmqpkg_inccics=0
